@@ -13,4 +13,5 @@
 ### دروس کارشناسی
 
 کارآموزی
-- [فرم های کارآموزی](https://github.com/mahdikhoshdel/PNU_3991_AR/blob/main/intership.jpg)
+- [فرم های ارزیابی کارآموزی](https://github.com/mahdikhoshdel/PNU_3991_AR/blob/main/intership.jpg)
+- [گزارش کارآموزی](https://github.com/mahdikhoshdel/PNU_3991_AR/blob/main/Report.pdf)
